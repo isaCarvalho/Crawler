@@ -1,0 +1,12 @@
+DROP DATABASE IF EXISTS crawler;
+
+CREATE DATABASE crawler;
+
+USE crawler;
+
+CREATE TABLE links (
+id INT PRIMARY KEY AUTO_INCREMENT,
+url VARCHAR(500),
+ranking INT NOT NULL
+);
+
