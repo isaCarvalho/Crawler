@@ -9,4 +9,5 @@ Este crawler utiliza um ranking baseado na quantidade de vezes que uma determina
 
 1. Kotlin 1.3.0
 2. Mysql 5.0
+3. Driver de conexão JDBC
 
