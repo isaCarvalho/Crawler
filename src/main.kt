@@ -15,7 +15,6 @@ fun main()
 
                 val links = Crawler.getLinks(url)!!
 
-                Crawler.storeLinks(links)
                 Crawler.printLinks(links)
             }
             2 -> {
