@@ -10,8 +10,6 @@ class Crawler
 {
     companion object
     {
-        // LEMBRAR DE TESTAR ISSO AQUI TBM
-
         // Metodo que retornara uma lista com as urls referenciadas por uma determinada URL passada por parametro
         fun getLinks(url : String) : List<String>?
         {
