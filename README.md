@@ -7,7 +7,7 @@ Este crawler utiliza um ranking baseado na quantidade de vezes que uma determina
 
 ## Compatibilidade
 
-Este crawler é compatível com os Sistemas Gerenciados de Banco de Dados PostgreSQL e MySQL.
+Este crawler é compatível com os Sistemas Gerenciadores de Banco de Dados PostgreSQL e MySQL.
 
 ## Conexão
 
